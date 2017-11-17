@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Lock Screen Watcher</string>
+    <string name="device_admin_explanation">For experimentation purposes only</string>
+    <string name="compliant">Password cocok!</string>
+    <string name="not_compliant">Password tidak cocok!</string>
+    <string name="password_failed">You will never break into this device!</string>
+    <string name="password_success">Selamat!</string>
+</resources>
